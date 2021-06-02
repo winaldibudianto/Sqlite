@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:columnCount="4"
+    android:rowCount="3"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/buttonA"
+        android:layout_gravity="left|top"
+        android:text="A"/>
+
+    <Button
+        android:id="@+id/buttonB"
+        android:layout_gravity="left|top"
+        android:text="B"/>
+
+    <Button
+        android:id="@+id/buttonC"
+        android:layout_gravity="left|top"
+        android:text="C"/>
+
+    <Button
+        android:id="@+id/buttonD"
+        android:layout_gravity="left|top"
+        android:text="D"/>
+
+    <Button
+        android:id="@+id/buttonE"
+        android:layout_gravity="left|top"
+        android:text="E"/>
+
+    <Button
+        android:id="@+id/buttonF"
+        android:layout_gravity="left|top"
+        android:text="F"/>
+
+    <Button
+        android:id="@+id/buttonG"
+        android:layout_gravity="left|top"
+        android:text="G"/>
+
+    <Button
+        android:id="@+id/buttonH"
+        android:layout_gravity="left|top"
+        android:text="H"/>
+
+    <Button
+        android:id="@+id/buttonI"
+        android:layout_gravity="left|top"
+        android:text="I"/>
+
+    <Button
+        android:id="@+id/buttonJ"
+        android:layout_gravity="left|top"
+        android:text="J"/>
+
+    <Button
+        android:id="@+id/buttonK"
+        android:layout_gravity="left|top"
+        android:text="K"/>
+
+    <Button
+        android:id="@+id/buttonL"
+        android:layout_gravity="left|top"
+        android:text="L"/>
+
+</GridLayout>
